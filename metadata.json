@@ -1,3 +1,6 @@
 {
-  muratcan: muratcan
+  "name": "Puma On Solana",
+  "symbol": "PUMA",
+  "description": "A new meme cooin on solana network, black and confident.",
+  "image": "https://mctdevs.github.io/pumasol/pumasol_v3.png"
 }
